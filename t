@@ -1,4 +1,2 @@
-from twilio.rest import Client 
- 
-account_sid = 'ACbfd86d77349eae0f9a4d62f9fa982153' 
-auth_token = '43f749c8f631ef4ae3afaf099a902522' 
+mojado@gnu.org
+1C670A76D88EAA0945B8762F4B4A2B1A
